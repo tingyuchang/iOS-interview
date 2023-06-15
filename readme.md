@@ -24,9 +24,8 @@
 20. What is the difference `Any` and `AnyObject`?
 21. Explain `extension` in Swift
 22. What is `Property Wrappers`?
-23. What is the difference in functional programming and OOPS?
-24. What's difference between `deep` and `shallow` copy
-25. What's Protocol Oriented Programming?
+23. What's difference between `deep` and `shallow` copy
+24. What's Protocol Oriented Programming?
 
 ## Concurrency
 1. What's different ways of achieving concurrency in iOS?
